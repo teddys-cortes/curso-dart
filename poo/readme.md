@@ -1,7 +1,7 @@
 # Programación orientada a objetos
 
 
-1. [Clases](Poo/clases/readme.md)
+1. [Clases](clases/readme.md)
 2. [Clases-abstractas](clases-abstractas/readme.md)
 3. [Atributos](Atributos/readme.md)
 4. [Geters and setters](Geters-setters/readme.md)
