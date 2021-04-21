@@ -64,6 +64,7 @@ class Animal {
 
   Animal.cat();
       }
+      
       ```
 
 Para crear un bojeto en Dart no es necesario usar la palabra clave new. Esta palabra es opcional. Asi que podemos crear objetos a partir de clases de la siguiente manera.
