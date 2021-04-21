@@ -6,5 +6,5 @@
 3. [Atributos](Atributos/readme.md)
 4. [Geters and setters](Geters-setters/readme.md)
 5. [Constructor](Constructor/readme.md)
-6. [Herencias](Herencias/readme.md)
+6. [Herencias](Herencia/readme.md)
 7. [Img](Img/readme.md)
