@@ -50,7 +50,7 @@ Pero si a una clase le añadimos la declaración de un constructor, es decir, lo
 ### Constructores con nombre
 Los constructores con nombre se emplean para implementar múltiples constructores para una clase o para proporcionar mayor claridad. ejemplo:
 
-      ```
+   ```
 void main() {
 
 Animal dog = new Animal.dog();
